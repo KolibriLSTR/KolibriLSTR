@@ -7,7 +7,7 @@
   Back-end
 </p>
 
-### 🌻 About Me:
+### 🌌 About Me:
 
 <p>
   <em>

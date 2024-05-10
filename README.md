@@ -11,12 +11,12 @@
 
 <p>
   <em>
-    I'm 17 years old, from São Paulo and currently studying at Alura.
+    I'm 18 years old, from São Paulo.
   </em>
 </p>
 
-- 🌱 Studying and improving my skills in Node.js, C# and Javascript.
-- 🚀 Student at Alura.
+- 🌱 Studying and improving my skills in Node.js, C#, Ruby and Javascript.
+- 🚀 Studied at Alura.
 - 📫 My email: wgmh.sonic@gmail.com
 
 ### ⚡ Technologies:

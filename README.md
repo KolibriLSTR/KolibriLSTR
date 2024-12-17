@@ -25,7 +25,7 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,express,html,js,nodejs,py,rust)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,express,js,nodejs,py)](https://skillicons.dev)
 
 - Tools and Plataforms
 

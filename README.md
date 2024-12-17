@@ -16,7 +16,7 @@
 </p>
 
 - 🌱 Studying and improving my skills in Node.js, C#, Ruby and Javascript.
-- 🚀 Studied at Alura.
+- 🚀 Studied at Alura, IFMG and PUCRS
 - 📫 My email: williamgarcia.mh@gmail.com
 
 ### ⚡ Technologies:

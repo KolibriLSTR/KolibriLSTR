@@ -17,7 +17,7 @@
 
 - 🌱 Studying and improving my skills in Node.js, C#, Ruby and Javascript.
 - 🚀 Studied at Alura.
-- 📫 My email: wgmh.sonic@gmail.com
+- 📫 My email: williamgarcia.mh@gmail.com
 
 ### ⚡ Technologies:
 
@@ -45,9 +45,10 @@ These are some of the technologies and tools I use:
 💬 Want to get in touch?
 
 <div>
-  <a href="https://www.linkedin.com/in/william-garcia-machado-homem-5b8ba2218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wgmh.sonic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_william.garcia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/william-garcia-machado-homem-70a6ba342/?trk=opento_sprofile_details" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:williamgarcia.mh@gmail.com
+"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/wl.garciaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a>
 </div>
 <br>
